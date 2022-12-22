@@ -9,7 +9,7 @@
 '''
 
 
-word: str = input('Enter the word ("hello" for exempl): ') # "hello"
+word: str = "hello" # input('Enter the word ("hello" for exempl): ') # "hello"
 
 user: dict = {
     "name": "Andrii",
